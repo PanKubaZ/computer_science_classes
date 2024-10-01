@@ -6,7 +6,7 @@ This syllabus presents the expected class schedule, due dates, and reading assig
 
 | Module                                                                      | Content                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Career roadmaps    | <ul><li>1.: https://roadmap.sh/</li></ul> |
-| Coding exercises   | <ul><li> 1.: https://www.hackerrank.com/ </li><li>2.: https://leetcode.com/ </li><li>3.: https://www.codility.com/</li></ul> |
-                                                               |
+| Career roadmaps    | <ol><li>https://roadmap.sh/</li></ol> |
+| Coding exercises   | <ol><li>https://www.hackerrank.com/</li><li>https://leetcode.com/</li><li>https://www.codility.com/</li></ol> |
+                                                               
 
