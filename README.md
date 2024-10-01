@@ -3,10 +3,10 @@ This syllabus presents the expected class schedule, due dates, and reading assig
 
 # Important links 
 
-## Career roadmaps 
-### 1. https://roadmap.sh/
 
-## Coding exercises 
-### 1. https://www.hackerrank.com/
-### 2. https://leetcode.com/
-### 3. https://www.codility.com/
+| Module                                                                      | Content                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Career roadmaps    | <ul><li>1.: https://roadmap.sh/</li></ul> |
+| Coding exercises   | <ul><li> 1.: https://www.hackerrank.com/ </li><li>2.: https://leetcode.com/ </li><li>3.: https://www.codility.com/</li></ul> |
+                                                               |
+
