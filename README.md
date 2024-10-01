@@ -1,8 +1,8 @@
-# Ważne linki
+# Important links 
 
-## Strona z mapami różnych ścieżek rozwoju
+## Career roadmaps 
 ### https://roadmap.sh/
 
-## Strony do ćwiczenia kodowania 
+## Coding exercises 
 ### https://www.hackerrank.com/
 ### https://leetcode.com/
