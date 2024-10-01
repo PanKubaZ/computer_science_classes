@@ -1,8 +1,8 @@
 # Important links 
 
 ## Career roadmaps 
-### https://roadmap.sh/
+### 1. https://roadmap.sh/
 
 ## Coding exercises 
-### https://www.hackerrank.com/
-### https://leetcode.com/
+### 1. https://www.hackerrank.com/
+### 2. https://leetcode.com/
