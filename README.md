@@ -1,4 +1,5 @@
 # Syllabus
+This syllabus presents the expected class schedule, due dates, and reading assignments.
 
 # Important links 
 
