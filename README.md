@@ -1,4 +1,4 @@
-# wazne_linki
+# Ważne linki
 
 ## Strona z mapami różnych ścieżek rozwoju
 ### https://roadmap.sh/
