@@ -1,5 +1,5 @@
 # Syllabus
-This syllabus presents the expected class schedule, due dates, and reading assignments.
+
 
 |                        Module                        |                         Date                        |                         Resources                        |                         Homework                        |
 | ---------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------- |
